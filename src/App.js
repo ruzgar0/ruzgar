@@ -36,16 +36,8 @@ function App() {
         </a>{' '}
         was bootstrapped with{' '}
         <a href="https://facebook.github.io/create-react-app/">
-          Create React App
-        </a>{' '}
-        and contains three directories, <code>/public</code> for static assets,{' '}
-        <code>/src</code> for components and content, and <code>/api</code>{' '}
-        which contains a serverless <a href="https://golang.org/">Go</a>{' '}
-        function. See{' '}
-        <a href="/api/date">
-          <code>api/date</code> for the Date API with Go
+          Rüzgar Değişik İşler
         </a>
-        .
       </p>
       <br />
       <h2>The date according to Go is:</h2>
